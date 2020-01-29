@@ -14,7 +14,7 @@ class App < Sinatra::Base
 
   get '/friends' do
     # Write your code here!
-    @friends = friends
+    @friends = 
 
   end
 end
